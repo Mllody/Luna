@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.23",
+    "reactflow": "^11.11.4"
+  }
+}
